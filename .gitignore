@@ -1,0 +1,14 @@
+# Archivos de trabajo — no forman parte del deploy
+*.pdf
+*.xlsx
+*.pptx
+*.png
+PROMPT_*.md
+simulador-margen-proyecto.html
+
+# Documentación interna — no se publica
+CLAUDE.md
+
+# Sistema y herramientas
+.DS_Store
+.claude/
